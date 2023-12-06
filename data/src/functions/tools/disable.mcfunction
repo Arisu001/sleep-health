@@ -16,4 +16,4 @@ scoreboard objectives remove SsicBafP
 
 
 # disable datapack
-datapack disable "file/sleep health"
+datapack disable "file/Sleep Health"
