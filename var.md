@@ -24,5 +24,3 @@ dummy___tms.var
 dummy___player.get_heath <===> H20wPxsh
 dummy___player.effect_sleep_time <===> T0cPvSEoO
 custom:sleep_in_bed___player.sleep_time <===> SsicBafP
-
-# Var: Scores
