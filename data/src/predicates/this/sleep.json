@@ -1,0 +1,39 @@
+[
+    {
+        "condition": "entity_properties",
+        "entity": "this",
+        "predicate": {
+            "type": "player",
+            "type_specific": {
+                "type": "player",
+                "gamemode": "unset"
+            },
+            "stepping_on": {
+                "block": {
+                    "tag": "beds"
+                }
+            }
+        }
+    },
+    {
+        "condition": "entity_scores",
+        "entity": "this",
+        "scores": {
+            "H20wPxsh": {
+                "min": 1,
+                "max": 20
+            },
+            "SsicBafP": {
+                "min": 1,
+                "max": 937501
+            }
+        }
+    },
+    {
+        "condition": "time_check",
+        "value": {
+            "min": 12550,
+            "max": 23459
+        }
+    }
+]
